@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.wedadfcis.plugingtemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.wedadfcis.plugingtemplate.MyBundle
 
 class MyApplicationService {
 
